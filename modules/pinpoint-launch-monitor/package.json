@@ -1,0 +1,13 @@
+{
+  "name": "pinpoint-launch-monitor",
+  "version": "0.1.0",
+  "description": "PinPoint experimental iOS launch-monitor camera engine",
+  "main": "src/index.tsx",
+  "types": "src/index.tsx",
+  "private": true,
+  "peerDependencies": {
+    "expo": "*",
+    "react": "*",
+    "react-native": "*"
+  }
+}

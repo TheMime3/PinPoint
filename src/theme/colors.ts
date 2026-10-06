@@ -1,0 +1,17 @@
+export const colors = {
+  navy: '#081B33',
+  blue: '#0D47A1',
+  blueLight: '#1C64D1',
+  green: '#22C55E',
+  greenBright: '#4ADE80',
+  white: '#FFFFFF',
+  coolGray: '#B6C2D1',
+  slate: '#6E7E91',
+  card: '#102A4C',
+  cardAlt: '#0C223D',
+  amber: '#F59E0B',
+  red: '#EF4444',
+  black: '#020817',
+  overlay: 'rgba(2, 8, 23, 0.58)',
+  border: 'rgba(182, 194, 209, 0.18)',
+};
